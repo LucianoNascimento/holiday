@@ -7,11 +7,13 @@ SQLite: Banco de dados para testes
 
 1. Passos para Configuração
 
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/LucianoNascimento/holiday
+cd holiday
 
 2. Instalar Dependências
-
+  
+   composer install
+   
 3. Configuração do Ambiente
    Copie o arquivo .env.example para .env:
 
